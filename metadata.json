@@ -1,0 +1,5 @@
+{
+  "name": "OptiPix AI - Smart Image Compressor",
+  "description": "A modern, client-side image compressor with AI-powered analysis. Compress images locally while using Gemini to generate alt text, keywords, and optimized filenames.",
+  "requestFramePermissions": []
+}
